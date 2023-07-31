@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
         <h3>🛠️ Tech Stack 🛠️</h3>
 </div>
 <div align=center>
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <div align=center>
+
 
 
 
