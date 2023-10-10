@@ -1,7 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20%20Injun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=80&height=200)
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Injun's%20Github&fontSize=20)-->
 <!--
 **dlswns2480/dlswns2480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Injun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
