@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Injun's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Injun's%20Github&fontSize=20)
 <!--
 **dlswns2480/dlswns2480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=center>
+- 🌱 I’m currently learning ...
+<div>
         <h3>🛠️ Tech Stack 🛠️</h3>
 </div>
-<div align=center>
+<div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black">
         
 </div>
-<div align=center>
+<div>
 <br>
 <br>
 
