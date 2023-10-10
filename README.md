@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Injun's%20Github&fontSize=20)
+<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Injun's%20Github&fontSize=20)-->
 <!--
 **dlswns2480/dlswns2480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Injun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 Here are some ideas to get you started:
 
@@ -13,7 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ...
+
+<details>
+<summary>
+  🌱 I’m currently learning ...
+</summary>
+   
+</details>
+
 <div>
         <h3>🛠️ Tech Stack 🛠️</h3>
 </div>
