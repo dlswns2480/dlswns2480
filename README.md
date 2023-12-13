@@ -39,7 +39,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black" style="width: 60px; height: 20px;">
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black" style="width: 60px; height: 20px;">
 </div>
 
 <div>
