@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20%20Injun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=80&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20%20Injun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=80&height=125)
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Injun's%20Github&fontSize=20)-->
 <!--
 **dlswns2480/dlswns2480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,15 +29,13 @@ Here are some ideas to get you started:
         <h4>🛠️ Tech Stack 🛠️</h4>
 </div>
 <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="width: 60px; height: 20px;">
-    <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 60px; height: 20px;">
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="width: 60px; height: 20px;">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="width: 60px; height: 20px;">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="width: 60px; height: 20px;">
+    <br> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 60px; height: 20px;"> 
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="width: 60px; height: 20px;">
+    <img src="https://img.shields.io/badge/Dokcer-2496ED?style=for-the-badge&logo=amazonaws&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black" style="width: 60px; height: 20px;">
 </div>
 
