@@ -30,13 +30,15 @@ Here are some ideas to get you started:
 </div>
 <div>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" style="width: 60px; height: 20px;">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="width: 60px; height: 20px;">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" style="width: 60px; height: 20px;">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="width: 60px; height: 20px;">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" style="width: 75px; height: 20px;">
     <br> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 60px; height: 20px;"> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 60px; height: 20px;"> 
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="width: 60px; height: 20px;">
+    <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" style="width: 75px; height: 20px;">
     <img src="https://img.shields.io/badge/Dokcer-2496ED?style=for-the-badge&logo=amazonaws&logoColor=white" style="width: 60px; height: 20px;">
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black" style="width: 60px; height: 20px;">
+<!--     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black" style="width: 60px; height: 20px;"> -->
 </div>
 
 <div>
